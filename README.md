@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cybersecurity 
 * 🌍  I'm based in Texas
 * ✉️  You can contact me at [tudinh712@gmail.com](mailto:tudinh712@gmail.com)
-* 🧠  I'm learning Cybersecurity
+* 🧠  I'm learning BAT Cybersecurity 
 * ⚡  ....
 
 <a href="https://www.github.com/tu-alandin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/tu-alandin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
