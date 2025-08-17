@@ -17,68 +17,95 @@ Welcome! I'm Tu, a cybersecurity student passionate about protecting digital sys
 
 ---
 
-## About Me
-- Graduated AAS Information System of Cybersecurity at Collin College
-- Practicing ethical hacking and network analysis, security operation center
-- Emotionally intelligent, creative, and detail-oriented
-- Always learning - from threat modeling to poetic captions
+## 👨‍💻 About Me
+- 🎓 Graduated AAS Information System of Cybersecurity at Collin College
+- 🧪 Practicing ethical hacking and network analysis, security operation center
+- 💬 Emotionally intelligent, creative, and detail-oriented
+- 🌱 Always learning - from threat modeling to poetic captions
 
 ---
 
-## Skills & Tools
+## 🚀 Skills & Tools
 
-| Category           | Tools & Technologies                              |
-| - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - |
-| Operating Systems  | Windows, Linux (Kali, Ubuntu)                     |
-| Networking         | TCP/IP, DNS, Firewalls, VLANs                     |
-| Security Tools     | Nmap, Wireshark, Metasploit, Burp Suite, Wazuh    |
-| Programming        | Python (basic), Linux, SQL                        |
-| Concepts           | CIA Trias, Threat Hunting, Vulnerability Scanning |
+I bring a unique blend of technical expertise and emotional intelligence to cybersecurity. I'm creative, detail-oriented, and always learning — from threat modeling to poetic captions.
+
+### 🧠 Soft Skills
+- Emotional management
+- Creative communication
+- Attention to detail
+
+### 🌐 Networking
+- TCP/IP, DNS, Firewalls, VLANs
+
+### 🔐 Security Concepts
+- CIA Triad
+- Threat Hunting
+- Vulnerability Scanning
+
+### 🛠️ Security Tools
+- Nmap
+- Wireshark
+- Metasploit
+- Burp Suite
+- Yara
+- VulnHub
+
+### 💻 Operating Systems
+- Windows
+- Linux (Kali)
+
+### 🧮 Programming & Scripting
+- Python (basic)
+- Bash scripting
+
+### 🗃️ Databases
+- SQL (concepts only)
 
 ---
 
-## Featured Projects
+## 🧪 Featured Projects
 
-### Nmap Port Scanning
+### 🔍 Nmap Port Scanning
 **Goal:** Identify open ports and services on a target machine 
 **Tools:** Nmap, Kali linux, TryHackMe
-[View Project](http://github.com/yourusername/nmap-port-scanning)
+📁[View Project](http://github.com/yourusername/nmap-port-scanning)
 
 ---
 
-### Wireshark Traffic Analysis
+### 🌐 Wireshark Traffic Analysis
 **Goal:** Analyze network traffic and detect suspicious activity
 **Tools** Wireshark, VirtualBox
-[View Project](http://github.com/yourusername/wireshark-traffic-analysis)
+📁[View Project](http://github.com/yourusername/wireshark-traffic-analysis)
 
 ---
 
-### TryHackMe - Blue Room
+### 🧠 TryHackMe - Blue Room
 **Goal:** Exploit a vulnerable Windows machine using EternBlue 
 **Tool:** Metasploit, Enum4linux, SMBclient
-[View Project](http://github.com/yourusername/tryhackme-blue-room)
+📁[View Project](http://github.com/yourusername/tryhackme-blue-room)
 
 ---
 
-## Certifications
+## 📜 Certifications
 
-- Google Cybersecurity Certificate *(In Progress)*
-- CpmpTIA Security+ *(Planned)*
-- TryHackMe Badges Pre-Security, Blue Team Fundamentals
+- 🎓 Google Cybersecurity Certificate *(In Progress)*
+- 🛡️ CpmpTIA Security+ *(Planned)*
+- 🧪 TryHackMe Badges Pre-Security, Blue Team Fundamentals
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 ![Tu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 
-## Contact
+## ✉️ Contact
 
-- Email: tudinh712@gmail.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/tu-dinh-a9aa21273/)
-- Portfolio: [github.com](https://github.com/tu-alandin/tu-alandin)
+- 📧 Email: tudinh712@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/tu-dinh-a9aa21273/)
+- 🧠 Portfolio: [github.com](https://github.com/tu-alandin/tu-alandin)
 
+> “Security is not a product, but a process.” – Bruce Schneier
 <a href="https://www.github.com/tu-alandin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/tu-alandin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
 
