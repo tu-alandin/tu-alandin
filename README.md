@@ -77,7 +77,7 @@ Welcome! I'm Tu, a cybersecurity student passionate about protecting digital sys
 
 - Email: tudinh712@gmail.com
 - LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/tu-dinh-a9aa21273/)
-- Portfolio: [github.com]()
+- Portfolio: [github.com](https://github.com/tu-alandin/tu-alandin)
 
 <a href="https://www.github.com/tu-alandin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/tu-alandin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
