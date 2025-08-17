@@ -1,16 +1,83 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tu Dinh   
+# Tu Dinh - Cybersecurity Portfolio
 
-Cybersecurity 
+![Banner](https://media.giphy.com/media/307aCRt3dUSn3FotD2/giphy.gif)
 
-## 🔍 About Me
-* 🌍  I'm based in Plano Texas
-* ✉️  You can contact me at [tudinh712@gmail.com](mailto:tudinh712@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tu-dinh-a9aa21273/)
-* 🎓  I'm graduated Associated in Applied Of Science, and I completed apply to learning BAT Cybersecurity 
-* 🛠  
-* 📚  
+Welcome! I'm Tu, a cybersecurity student passionate about protecting digital systems and uncovering vulnerabilities. This portfolio showcases my hands-on projects, technical labs, certifications, and continuous learning journey.
 
-## 📂 Contents
+---
 
+## 📖 Table of Contents
+
+- [About Me] (#-about-me)
+- [Skills & Tools] (#-skills--tools)
+- [Feature Projects] (#-feature-projects)
+- [Certifications] (#-certifications)
+- [GitHub Stats] (#-github-stats)
+- [Contact] (#-contact)
+
+---
+
+## About Me
+- Graduated AAS Information System of Cybersecurity at Collin College
+- Practicing ethical hacking and network analysis, security operation center
+- Emotionally intelligent, creative, and detail-oriented
+- Always learning - from threat modeling to poetic captions
+
+---
+
+## Skills & Tools
+
+| Category           | Tools & Technologies                              |
+| - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - |
+| Operating Systems  | Windows, Linux (Kali, Ubuntu)                     |
+| Networking         | TCP/IP, DNS, Firewalls, VLANs                     |
+| Security Tools     | Nmap, Wireshark, Metasploit, Burp Suite, Wazuh    |
+| Programming        | Python (basic), Linux, SQL                        |
+| Concepts           | CIA Trias, Threat Hunting, Vulnerability Scanning |
+
+---
+
+## Featured Projects
+
+### Nmap Port Scanning
+**Goal:** Identify open ports and services on a target machine 
+**Tools:** Nmap, Kali linux, TryHackMe
+[View Project](http://github.com/yourusername/nmap-port-scanning)
+
+---
+
+### Wireshark Traffic Analysis
+**Goal:** Analyze network traffic and detect suspicious activity
+**Tools** Wireshark, VirtualBox
+[View Project](http://github.com/yourusername/wireshark-traffic-analysis)
+
+---
+
+### TryHackMe - Blue Room
+**Goal:** Exploit a vulnerable Windows machine using EternBlue 
+**Tool:** Metasploit, Enum4linux, SMBclient
+[View Project](http://github.com/yourusername/tryhackme-blue-room)
+
+---
+
+## Certifications
+
+- Google Cybersecurity Certificate *(In Progress)*
+- CpmpTIA Security+ *(Planned)*
+- TryHackMe Badges Pre-Security, Blue Team Fundamentals
+
+---
+
+## GitHub Stats
+![Tu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## Contact
+
+- Email: tudinh712@gmail.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/tu-dinh-a9aa21273/)
+- Portfolio: [github.com]()
 
 <a href="https://www.github.com/tu-alandin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/tu-alandin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
