@@ -1,9 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tu Dinh   
+
 Cybersecurity 
+
+## 🔍 About Me
 * 🌍  I'm based in Plano Texas
-* ✉️  You can contact me at [tudinh712@gmail.com](mailto:tudinh712@gmail.com)
-* 🧠  I'm graduated Associated in Applied Of Science, and I completed apply to learning BAT Cybersecurity 
-* ⚡  ....
+* ✉️  You can contact me at [tudinh712@gmail.com](mailto:tudinh712@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tu-dinh-a9aa21273/)
+* 🎓  I'm graduated Associated in Applied Of Science, and I completed apply to learning BAT Cybersecurity 
+* 🛠  
+* 📚  
+
+## 📂 Contents
+
 
 <a href="https://www.github.com/tu-alandin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/tu-alandin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
